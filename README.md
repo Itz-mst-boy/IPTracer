@@ -2,26 +2,32 @@
 
 [ ɪᴘᴛʀᴀᴄᴇʀ  ɪs  ᴀ sɪᴍᴘʟᴇ ɪᴘ  ᴛʀᴀᴄᴋᴇʀ  ᴛᴏᴏʟ  ɪs  ᴅᴇᴠᴇʟᴏᴘᴇᴅ  ғᴏʀ  ʟɪɴᴜx  sʏsᴛᴇᴍ  ]
 
-ɪɴsᴛᴀʟʟ 👇 👇 👇
+ɪɴsᴛᴀʟʟɪɴɢ  ɪs ᴀ ᴇᴀsʏ ᴘʀᴏᴄᴇss ᴢsᴛ ᴅᴏ ᴄᴏᴘʏ ғᴏʟʟʟᴏᴡɪɴɢ👇 👇 👇
 
-sᴛᴇᴘ 1 
+sᴛᴇᴘ 1 :-
+
 apt update & apt upgrade
 
-sᴛᴇᴘ 2 
+sᴛᴇᴘ 2 :-
 apt install git
 
-sᴛᴇᴘ 3
+sᴛᴇᴘ 3 :- 
 apt install python
 
-sᴛᴇᴘ 4
+sᴛᴇᴘ 4 :- 
 git clone https://github.com/itz-mst-boy/IPTracer.git 
 
-sᴛᴇᴘ 5
+sᴛᴇᴘ 5 :- 
 cd IPTracer
 
-sᴛᴇᴘ 6
+sᴛᴇᴘ 6 :- 
 python3 iptracer.py
 
-sᴛᴇᴘ 7
+sᴛᴇᴘ 7 :- 
 ᴇɴᴛᴇʀ ᴀɴʏ ɪᴘ ᴀᴅᴅʀᴇss ᴛᴏ ᴛʀᴀᴄᴋ  ʟᴏᴄᴀᴛɪᴏɴ
 
+
+
+ #support
+
+  [ᴅᴇᴠᴇʟᴏᴘᴏʀ](https://t.me/itz_mst_boy)
