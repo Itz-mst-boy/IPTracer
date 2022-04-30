@@ -5,6 +5,6 @@ IPTracer
 
 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 👇 👇 👇
 
-git clone https://github.com/itz-mst-boy/IPTracer.git
-cd IPTracer
+git clone https://github.com/itz-mst-boy/IPTracer.git \n
+cd IPTracer\n
 python3 iptracer.py
