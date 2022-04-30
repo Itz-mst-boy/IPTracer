@@ -12,7 +12,7 @@ print('''\033[1;35;40m
  |_____||_|         |_||_|   \__,_| \___|\___||_|\033[0m  
                                 
                                                     
-            \033[1;40mTool Created By\033[0m\033[1;33;40m SKBROOT\033[0m
+            \033[1;40mTool Created By\033[0m\033[1;33;40m @ITZ_MST_BOY\033[0m
 ''')
 while True:
         user=input("\033[1;33;40mENTER TARGET IP : \033[0m \033[32;40m")
