@@ -30,7 +30,11 @@ sᴛᴇᴘ 7 :-
  #support
 
   [ᴅᴇᴠᴇʟᴏᴘᴏʀ](https://t.me/itz_mst_boy)
+
   [sᴜᴘᴘᴏʀᴛ](https://t.me/worldwide_friend_zone)
+
   [ᴜᴘᴅᴀᴛᴇ](https://t.me/moi_bot_lists)
+
   [ᴍᴏɪ ᴄʜᴀɴɴᴇʟ](https://t.me/mr_sukkun)
+
  [ɴᴇᴛᴡᴏʀᴋ](https://t.me/mastermind_network_official)
